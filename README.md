@@ -1,1 +1,1 @@
-# recupearar-senha
+# recuperar-senha
